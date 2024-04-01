@@ -1,2 +1,2 @@
-# Clase01
- Ejercicio validador de inscripciones
+# DDS - Repositorio publico
+ Clase 01 - Ejercicio validador de inscripciones
